@@ -1,0 +1,49 @@
+.formBox {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.itemName {
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 6px;
+}
+
+.itemNumber {
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 6px;
+}
+
+.inputName {
+  font-size: 16px;
+  border-radius: 10px;
+  border-color: transparent;
+  padding-left: 6px;
+}
+
+.inputNumber {
+  font-size: 16px;
+  border-radius: 10px;
+  border-color: transparent;
+  padding-left: 6px;
+}
+
+.buttonAdd {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  border-color: transparent;
+  margin-top: 14px;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #3e775d;
+  padding: 4px 10px;
+  cursor: pointer;
+}
+
+.buttonAdd:hover,
+.buttonAdd:focus {
+  box-shadow: 0px 2px 4px 1px #ffffff;
+}

@@ -1,0 +1,13 @@
+.nameFilter {
+  color: #ffffff;
+  font-size: 20px;
+  margin-bottom: 6px;
+}
+
+.inputFilter {
+  font-size: 16px;
+  border-radius: 10px;
+  border-color: transparent;
+  padding-left: 6px;
+  margin-bottom: 12px;
+}
